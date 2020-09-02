@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
 
   dateNow:Date;
-  name: string = 'salim';
+  name: string = 'Abderrahmen';
   constructor() { }
 
   ngOnInit() {
